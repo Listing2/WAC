@@ -1,0 +1,502 @@
+{
+    "players": {
+      "1": {
+        "displayName": "LILPAAA",
+        "name": "릴파",
+        "team": 0,
+        "teamName": "세도리아 제국"
+      },
+      "2": {
+        "displayName": "gosegu",
+        "name": "고세구",
+        "team": 0,
+        "teamName": "세도리아 제국"
+      },
+      "3": {
+        "displayName": "VIichan",
+        "name": "비챤",
+        "team": 0,
+        "teamName": "세도리아 제국"
+      },
+      "4": {
+        "displayName": "비즈니스킴",
+        "name": "비즈니스킴",
+        "team": 0,
+        "teamName": "세도리아 제국"
+      },
+      "5": {
+        "displayName": "-소피아-",
+        "name": "소피아",
+        "team": 0,
+        "teamName": "세도리아 제국"
+      },
+      "6": {
+        "displayName": "roentgenium",
+        "name": "뢴트게늄",
+        "team": 0,
+        "teamName": "세도리아 제국"
+      },
+      "7": {
+        "displayName": "DAOMM",
+        "name": "마다옴",
+        "team": 0,
+        "teamName": "세도리아 제국"
+      },
+      "8": {
+        "displayName": "마이곰이",
+        "name": "마이곰이",
+        "team": 0,
+        "teamName": "세도리아 제국"
+      },
+      "9": {
+        "displayName": "summer030",
+        "name": "여르미",
+        "team": 0,
+        "teamName": "세도리아 제국"
+      },
+      "10": {
+        "displayName": "TIFFANY0421",
+        "name": "티파니",
+        "team": 1,
+        "teamName": "대고멤 제국"
+      },
+      "11": {
+        "displayName": "왁파고_",
+        "name": "왁파고",
+        "team": 1,
+        "teamName": "대고멤 제국"
+      },
+      "12": {
+        "displayName": "병장 곽춘식",
+        "name": "곽춘식",
+        "team": 1,
+        "teamName": "대고멤 제국"
+      },
+      "13": {
+        "displayName": "Dr Dopamine",
+        "name": "도파민",
+        "team": 1,
+        "teamName": "대고멤 제국"
+      },
+      "14": {
+        "displayName": "Hiki King",
+        "name": "히키킹",
+        "team": 1,
+        "teamName": "대고멤 제국"
+      },
+      "15": {
+        "displayName": "이덕수할아바이",
+        "name": "이덕수",
+        "team": 1,
+        "teamName": "대고멤 제국"
+      },
+      "16": {
+        "displayName": "독고혜지",
+        "name": "혜지",
+        "team": 1,
+        "teamName": "대고멤 제국"
+      },
+      "17": {
+        "displayName": "부정형인간",
+        "name": "부정형",
+        "team": 1,
+        "teamName": "대고멤 제국"
+      },
+      "18": {
+        "displayName": "김치만두번영택사스가",
+        "name": "김치만두",
+        "team": 1,
+        "teamName": "대고멤 제국"
+      },
+      "19": {
+        "displayName": "버터우스 3세",
+        "name": "버터우스",
+        "team": 2,
+        "teamName": "아카데미 나라"
+      },
+      "20": {
+        "displayName": "성기사 샬롯",
+        "name": "샬롯",
+        "team": 2,
+        "teamName": "아카데미 나라"
+      },
+      "21": {
+        "displayName": "메카 맹기산~",
+        "name": "맹기산",
+        "team": 2,
+        "teamName": "아카데미 나라"
+      },
+      "22": {
+        "displayName": "__진희__",
+        "name": "진희",
+        "team": 2,
+        "teamName": "아카데미 나라"
+      },
+      "23": {
+        "displayName": "사랑전도사 젠투",
+        "name": "젠투",
+        "team": 2,
+        "teamName": "아카데미 나라"
+      },
+      "24": {
+        "displayName": "아마데우스최",
+        "name": "아마최",
+        "team": 2,
+        "teamName": "아카데미 나라"
+      },
+      "25": {
+        "displayName": "캡틴 설리반",
+        "name": "설리반",
+        "team": 2,
+        "teamName": "아카데미 나라"
+      },
+      "26": {
+        "displayName": "데스해머쵸로키",
+        "name": "쵸로키",
+        "team": 2,
+        "teamName": "아카데미 나라"
+      },
+      "27": {
+        "displayName": "_불곰_",
+        "name": "불곰",
+        "team": 2,
+        "teamName": "아카데미 나라"
+      },
+      "28": {
+        "displayName": "RUSUK",
+        "name": "루숙",
+        "team": 3,
+        "teamName": "고교멤 연합국"
+      },
+      "29": {
+        "displayName": "바이터_",
+        "name": "바이터",
+        "team": 3,
+        "teamName": "고교멤 연합국"
+      },
+      "30": {
+        "displayName": "카르나르 융터르",
+        "name": "카르나르",
+        "team": 3,
+        "teamName": "고교멤 연합국"
+      },
+      "31": {
+        "displayName": "_victory",
+        "name": "빅토리",
+        "team": 3,
+        "teamName": "고교멤 연합국"
+      },
+      "32": {
+        "displayName": "sirian_",
+        "name": "시리안",
+        "team": 3,
+        "teamName": "고교멤 연합국"
+      },
+      "33": {
+        "displayName": "soosemi",
+        "name": "수세미",
+        "team": 3,
+        "teamName": "고교멤 연합국"
+      },
+      "34": {
+        "displayName": "미미짱짱세용",
+        "name": "미미짱",
+        "team": 3,
+        "teamName": "고교멤 연합국"
+      },
+      "35": {
+        "displayName": "철도왕 길버트",
+        "name": "길버트",
+        "team": 3,
+        "teamName": "고교멤 연합국"
+      },
+      "36": {
+        "displayName": "정삼품 통정대부 대곡",
+        "name": "대곡",
+        "team": 3,
+        "teamName": "고교멤 연합국"
+      },
+      "37": {
+        "displayName": "히어로 준비생 레드",
+        "name": "레드",
+        "team": 4,
+        "teamName": "미들랜드"
+      },
+      "38": {
+        "displayName": "쿠키킹_",
+        "name": "쿠키킹",
+        "team": 4,
+        "teamName": "미들랜드"
+      },
+      "39": {
+        "displayName": "피카온_",
+        "name": "피카온",
+        "team": 4,
+        "teamName": "미들랜드"
+      },
+      "40": {
+        "displayName": "StarTree",
+        "name": "스타트리",
+        "team": 4,
+        "teamName": "미들랜드"
+      },
+      "41": {
+        "displayName": "Samuel25.",
+        "name": "사무엘",
+        "team": 4,
+        "teamName": "미들랜드"
+      },
+      "42": {
+        "displayName": "초원의 야생마",
+        "name": "야생마",
+        "team": 4,
+        "teamName": "미들랜드"
+      },
+      "43": {
+        "displayName": "Sir_Charlee",
+        "name": "찰리",
+        "team": 4,
+        "teamName": "미들랜드"
+      },
+      "44": {
+        "displayName": "까마귀 f59a",
+        "name": "까마귀",
+        "team": 4,
+        "teamName": "미들랜드"
+      },
+      "45": {
+        "displayName": "임도킹입니다",
+        "name": "임도킹",
+        "team": 4,
+        "teamName": "미들랜드"
+      },
+      "46": {
+        "displayName": "chunyangkr",
+        "name": "천양",
+        "team": 5,
+        "teamName": "천양의 보석함"
+      },
+      "47": {
+        "displayName": "eldk",
+        "name": "엘디케이",
+        "team": 5,
+        "teamName": "천양의 보석함"
+      },
+      "48": {
+        "displayName": "Mogu9",
+        "name": "모구",
+        "team": 5,
+        "teamName": "천양의 보석함"
+      },
+      "49": {
+        "displayName": "왕꿈틀이",
+        "name": "꿈틀이",
+        "team": 5,
+        "teamName": "천양의 보석함"
+      },
+      "50": {
+        "displayName": "_한결_",
+        "name": "한결",
+        "team": 5,
+        "teamName": "천양의 보석함"
+      },
+      "51": {
+        "displayName": "moon_momo",
+        "name": "모모",
+        "team": 5,
+        "teamName": "천양의 보석함"
+      },
+      "52": {
+        "displayName": "채은채_",
+        "name": "채은",
+        "team": 5,
+        "teamName": "천양의 보석함"
+      },
+      "53": {
+        "displayName": "재수피기",
+        "name": "재수",
+        "team": 5,
+        "teamName": "천양의 보석함"
+      },
+      "54": {
+        "displayName": "봄세이잉",
+        "name": "봄세",
+        "team": 5,
+        "teamName": "천양의 보석함"
+      },
+      "55": {
+        "displayName": "카린야_",
+        "name": "카린",
+        "team": 6,
+        "teamName": "버스터콜"
+      },
+      "56": {
+        "displayName": "beemong",
+        "name": "비몽",
+        "team": 6,
+        "teamName": "버스터콜"
+      },
+      "57": {
+        "displayName": "Ma-Wang",
+        "name": "마왕",
+        "team": 6,
+        "teamName": "버스터콜"
+      },
+      "58": {
+        "displayName": "제갈금자",
+        "name": "금자",
+        "team": 6,
+        "teamName": "버스터콜"
+      },
+      "59": {
+        "displayName": "beadyo",
+        "name": "비드요",
+        "team": 6,
+        "teamName": "버스터콜"
+      },
+      "60": {
+        "displayName": "beberrying",
+        "name": "베베링",
+        "team": 6,
+        "teamName": "버스터콜"
+      },
+      "61": {
+        "displayName": "Gosummer12",
+        "name": "고서머",
+        "team": 6,
+        "teamName": "버스터콜"
+      },
+      "62": {
+        "displayName": "YangDoki",
+        "name": "양도키",
+        "team": 6,
+        "teamName": "버스터콜"
+      },
+      "63": {
+        "displayName": "Oo김빙밍oO",
+        "name": "빙밍",
+        "team": 6,
+        "teamName": "버스터콜"
+      },
+      "64": {
+        "displayName": "42dadada",
+        "name": "다다다",
+        "team": 7,
+        "teamName": "왁린스만국"
+      },
+      "65": {
+        "displayName": "_임재천",
+        "name": "임재천",
+        "team": 7,
+        "teamName": "왁린스만국"
+      },
+      "66": {
+        "displayName": "MIR_미르",
+        "name": "미르",
+        "team": 7,
+        "teamName": "왁린스만국"
+      },
+      "67": {
+        "displayName": "_단츄_",
+        "name": "단츄",
+        "team": 7,
+        "teamName": "왁린스만국"
+      },
+      "68": {
+        "displayName": "Nyanya-",
+        "name": "냐냐",
+        "team": 7,
+        "teamName": "왁린스만국"
+      },
+      "69": {
+        "displayName": "빈스_9",
+        "name": "빈스",
+        "team": 7,
+        "teamName": "왁린스만국"
+      },
+      "70": {
+        "displayName": "Floweress loe",
+        "name": "플라워",
+        "team": 7,
+        "teamName": "왁린스만국"
+      },
+      "71": {
+        "displayName": "_달타_",
+        "name": "달타",
+        "team": 7,
+        "teamName": "왁린스만국"
+      },
+      "72": {
+        "displayName": "_neez",
+        "name": "니즈",
+        "team": 7,
+        "teamName": "왁린스만국"
+      },
+      "73": {
+        "displayName": "VRwakgood",
+        "name": "왁굳",
+        "team": 8,
+        "teamName": "왁굳님"
+      },
+      "74": {
+        "displayName": "리스팅_",
+        "name": "리스팅",
+        "team": 9,
+        "teamName": "제작팀"
+      },
+      "75": {
+        "displayName": "_끽잉_",
+        "name": "끽잉",
+        "team": 9,
+        "teamName": "제작팀"
+      },
+      "76": {
+        "displayName": "준스트_",
+        "name": "준스트",
+        "team": 9,
+        "teamName": "제작팀"
+      },
+      "77": {
+        "displayName": "_LarMa_",
+        "name": "라르마",
+        "team": 9,
+        "teamName": "제작팀"
+      },
+      "78": {
+        "displayName": "가면가온나",
+        "name": "가온",
+        "team": 9,
+        "teamName": "제작팀"
+      },
+      "79": {
+        "displayName": "(개르미)",
+        "name": "개르미",
+        "team": 9,
+        "teamName": "제작팀"
+      },
+      "80": {
+        "displayName": "배터리1",
+        "name": "배터리",
+        "team": 9,
+        "teamName": "제작팀"
+      },
+      "81": {
+        "displayName": "Mr-Blank",
+        "name": "블랭크",
+        "team": 9,
+        "teamName": "제작팀"
+      },
+      "82": {
+        "displayName": "비밀소녀",
+        "name": "비밀",
+        "team": 9,
+        "teamName": "제작팀"
+      },
+      "83": {
+        "displayName": "(풍신)",
+        "name": "풍신",
+        "team": 9,
+        "teamName": "제작팀"
+      }
+    }
+}
